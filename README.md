@@ -22,7 +22,7 @@ This project evaluates the impact of GAN-based synthetic image generation on bre
 
 ## 📈 Key Findings
 - Baseline Accuracy: ~56%
-- GAN Accuracy: ~57%
+- GAN Accuracy: ~48
 - Recall decreased for malignant class
 - Synthetic images were low quality (black images)
 
